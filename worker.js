@@ -2940,7 +2940,7 @@ self.props = {
             }
 
             const html = `<!DOCTYPE html>
-<html lang="en">
+<html lang="ko">
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -2949,7 +2949,6 @@ self.props = {
 
         <meta name="og:title" content="${path} | ${self.props.title}">
         <meta name="og:type" content="website">
-        <meta name="og:image" content="${self.props.assets_url}/img/opengraph.jpg">
         <meta name="og:description" content="${self.props.description}">
         <meta name="og:site_name" content="${self.props.title}">
 
