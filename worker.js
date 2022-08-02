@@ -1,8 +1,8 @@
 sa_array = []; // put your service accounts in this array in json format separated by ,  
 const random = Math.floor(Math.random() * sa_array.length);
 self.props = {
-    title: 'YouTube Vanced Mirror',
-    default_root_id: '1HurQDgp_eMjQlPBZdIIzHv6Qzi5HmuLT',
+    title: "Esherloon's Drive",
+    default_root_id: '',
     client_id: '',
     client_secret: '',
     refresh_token: '',
@@ -14,8 +14,8 @@ self.props = {
     upload: false,
     lite: true, // do not change this to false
 
-    description: '에셜룬의 YouTube Vanced 미러 서버',
-    assets_url: 'https://cdn.jsdelivr.net/gh/jinoo2005609/google-drive-index-worker@main/assets',
+    description: '에셜룬의 드라이브',
+    assets_url: 'https://cdn.jsdelivr.net/gh/jinoo2005609/google-drive-index-worker-msdn@main/assets',
     discord_invite: ''
 };
 (function () {
