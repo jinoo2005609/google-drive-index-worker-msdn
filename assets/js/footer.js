@@ -1,1 +1,1 @@
-document.getElementById('footer').innerHTML = '에셜룬의 드라이브 | <a href="https://esherloon.com/">esherloon.com</a>';
+document.getElementById('footer').innerHTML = 'Esherloon''s Server (에셜룬의 서버) | <a href="https://esherloon.com/">esherloon.com</a>';
